@@ -7,7 +7,7 @@ from llama_index import Prompt
 from llama_index import StorageContext, load_index_from_storage
 
 #openai.api_key = ""  # Replace with your OpenAI API key
-os.environ["OPENAI_API_KEY"] = ""  # Poner la OpenAI API key
+#os.environ["OPENAI_API_KEY"] = ""  # Poner la OpenAI API key
 
 
 # Load documents from a directory
@@ -17,7 +17,7 @@ documents = SimpleDirectoryReader('book').load_data()
 index = VectorStoreIndex.from_documents(documents)
 
 # Create a query engine from the index
-#query_engine = index.as_query_engine()
+query_engine = index.as_query_engine()
 
 
 #print(response)
