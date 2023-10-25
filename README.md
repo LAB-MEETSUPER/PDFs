@@ -76,7 +76,12 @@ Elrond
 Arwen
 
 Frodo Bolsón es el protagonista de la historia. Es un hobbit que debe destruir el Anillo Único. Samsagaz Gamyi es el mejor amigo de Frodo y lo acompaña en su viaje. Merry Brandybuck y Pippin Tuk son otros hobbits que acompañan a Frodo. Gandalf es un mago que ayuda a Frodo en su viaje. Aragorn es un hombre que se convierte en rey al final de la historia. Legolas es un elfo que se une a la compañía de Frodo. Gimli es un enano que se une a la compañía de Frodo. Elrond es un elfo que vive en Rivendell. Arwen es la hija de Elrond y se casa con Aragorn al final de la historia.
-
+![](https://github.com/LAB-MEETSUPER/PDFs/blob/main/multimedia/prueba1.png)
+![](https://github.com/LAB-MEETSUPER/PDFs/blob/main/multimedia/prueba2.png)
+![](https://github.com/LAB-MEETSUPER/PDFs/blob/main/multimedia/prueba3.png)
+![](https://github.com/LAB-MEETSUPER/PDFs/blob/main/multimedia/prueba4.png)
+![](https://github.com/LAB-MEETSUPER/PDFs/blob/main/multimedia/prueba5.png)
+    
 ## ESTADO:
 <h4 align="center">
 :white_check_mark: Proyecto en desarrollo :white_check_mark:
