@@ -100,7 +100,7 @@ En desarrollo
 
 ## DESARROLLADORES
 
-| [<img src="https://avatars.githubusercontent.com/u/83037176?v=4" width=115><br><sub>Rocío Méndez</sub>](https://github.com/RocioAldanaMendez)  | [<img src="https://avatars.githubusercontent.com/u/109556951?v=4" width=115><br><sub>Carla Carrasco</sub>](https://github.com/CarCarrasco1) 
+| [<img src="https://avatars.githubusercontent.com/u/83037176?v=4" width=115><br><sub>Rocío Méndez</sub>](https://github.com/RocioAldanaMendez)  | [<img src="https://avatars.githubusercontent.com/u/114781254?v=4" width=115><br><sub>Hernan Hereñu</sub>](https://github.com/hlitio) 
 | :---: | :---: | 
 
 ## FEEDBACK
