@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=%20Análisis%20Standard%20and%20Poor's%20500&fontSize=30&&color=15:92a8d1,100:f7cac9&desc=%20%20&fontColor=ff6347&fontAlignY=35)
 
 ## Asistente de interpretador de textos
 
@@ -85,12 +84,11 @@ Frodo Bolsón es el protagonista de la historia. Es un hobbit que debe destruir 
 
 ## DEMO
 
-![DEMO1](https://github.com/RocioAldanaMendez/S-P_500_EDA_Dashboard/blob/main/assets/DEMO1.gif)
+En desarrollo
 
 ## TECNOLOGÍAS
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width=40px height=40px/>
 
-- OPEN AI (3.5)
+- OPEN AI (3.5) api key free hasta alcanzar el límite
 - GRADIO
 - LLAMA
 - LANGCHAIN
