@@ -7,7 +7,7 @@ from llama_index import Prompt
 from llama_index import StorageContext, load_index_from_storage
 
 #openai.api_key = ""  # Replace with your OpenAI API key
-os.environ["OPENAI_API_KEY"] = "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"  # Poner la OpenAI API key
+os.environ["OPENAI_API_KEY"] = ""  # Poner la OpenAI API key
 
 
 # Load documents from a directory

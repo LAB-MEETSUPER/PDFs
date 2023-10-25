@@ -7,8 +7,8 @@ from langchain.chat_models import ChatOpenAI
 from llama_index import Prompt
 from llama_index import StorageContext, load_index_from_storage
 
-openai.api_key = ""  # Reemplaza con tu clave de API de OpenAI
-os.environ["OPENAI_API_KEY"] = "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"  # Poner la clave de API de OpenAI
+#openai.api_key = ""  # Reemplaza con tu clave de API de OpenAI
+#os.environ["OPENAI_API_KEY"] = ""  # Poner la clave de API de OpenAI
 
 # Cargar documentos de un directorio (opcional)
 documents = SimpleDirectoryReader('book').load_data()
@@ -29,7 +29,7 @@ new_index = load_index_from_storage(storage_context)
 new_query_engine = new_index.as_query_engine()
 
 # Create predictor using a custom model
-llm_predictor = LLMPredictor(llm=ChatOpenAI(temperature=0, model_name="gpt-3.5-turbo"))
+llm_predictor = LLMPredictor(llm=ChatOpenAI(temperature=0, model_name="text-embedding-ada-002"))
 
 # Create service context with a custom predictor
 service_context = ServiceContext.from_defaults(llm_predictor=llm_predictor)
